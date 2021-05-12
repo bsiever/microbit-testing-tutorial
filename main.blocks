@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="B;5hB4i~JehgLYO8#-id" x="20" y="20"/><block type="device_forever" id="9JE1UG/6#SKh~ag]8%)+" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="bluetooth_on_connected" id="^de2qT~]8yh=WaPfz?X[" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="DOx_{@Fz4%a+z/,ySEdR"><field name="i">IconNames.Heart</field></block></statement></block></xml>

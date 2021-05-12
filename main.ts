@@ -1,3 +1,3 @@
-basic.forever(function () {
-	
+bluetooth.onBluetoothConnected(function () {
+    basic.showIcon(IconNames.Heart)
 })
